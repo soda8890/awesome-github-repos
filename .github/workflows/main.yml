@@ -1,14 +1,10 @@
-name: Update some list
+name: Update awesome list
 
-on:
-  push:
-    branches:
-      - main
+on: 
   workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *'
-  watch:
-    types: [started]
+    - cron: '00 00 */1 * *'
+
 permissions:
   contents: write
 
@@ -17,11 +13,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - name: generator
+      - name: Awesome generator
         uses: simonecorsi/mawesome@v2
         with:
-          api-token: ${{ secrets.API_TOKEN }}
-          github-email: ${{ secrets.USER_EMAIL }}
           template-path: "template/README.ejs"
           output-filename: "data.md"
+          api-token: ${{ secrets.API_TOKEN }}
+          github-email: ${{ secrets.USER_EMAIL }}
           github-name: ${{ github.repository_owner }}
