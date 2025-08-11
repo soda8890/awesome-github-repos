@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+*   [Kotlin](#kotlin)
 *   [JavaScript](#javascript)
 *   [Python](#python)
 *   [TypeScript](#typescript)
@@ -21,7 +22,6 @@
 *   [Assembly](#assembly)
 *   [Lua](#lua)
 *   [Ruby](#ruby)
-*   [Kotlin](#kotlin)
 *   [Vim Script](#vim-script)
 *   [C++](#c-1)
 *   [TeX](#tex)
@@ -36,6 +36,12 @@
 *   [C#](#c-2)
 *   [Dockerfile](#dockerfile)
 *   [Roff](#roff)
+
+## Kotlin
+
+*   [yelog/vim-flash](https://github.com/yelog/vim-flash) - folke/flash.nvim on ideavim
+
+*   [JetBrains/ideavim](https://github.com/JetBrains/ideavim) - IdeaVim – A Vim engine for JetBrains IDEs
 
 ## JavaScript
 
@@ -52,8 +58,6 @@
 *   [carloscuesta/gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli) - A gitmoji interactive cli tool for using emojis on commits. 💻
 
 *   [XInTheDark/raycast-g4f](https://github.com/XInTheDark/raycast-g4f) - Raycast extension to use GPT, Claude, Llama, and more... all for FREE! + Full support for custom APIs.
-
-*   [sb2nov/mac-setup](https://github.com/sb2nov/mac-setup) - Installing Development environment on macOS
 
 *   [0xffff-one/0xffff-wiki](https://github.com/0xffff-one/0xffff-wiki) - 📖 0xFFFF CS Wiki 独立站点（施工中...）
 
@@ -113,8 +117,6 @@
 
 *   [stonehank/html-to-md](https://github.com/stonehank/html-to-md) - A JS library for convert HTML\<String> to markdown\<String>, gzip 10kb
 
-*   [fuzhengwei/NaiveChat](https://github.com/fuzhengwei/NaiveChat) - :performing\_arts:  本IM通信项目是作者小傅哥使用JavaFx、Netty4.x、SpringBoot、Mysql等技术栈和偏向于DDD领域驱动设计方式，搭建的仿桌面版微信实现通信核心功能。课程文章已发布到GitChat专栏，欢迎购买。如果本项目能为您提供帮助，请给予支持(关注、:star:Star、分享)！
-
 ## Python
 
 *   [tonngw/daily-news-bot](https://github.com/tonngw/daily-news-bot) - 每日新闻推送到微信使用 GitHub Action 和 pushplus 实现 | This is a daily news bot use github action and pushplus.
@@ -141,7 +143,7 @@
 
 *   [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
 
-*   [Vonng/ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA中文翻译
+*   [Vonng/ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA 第一版 / 第二版 中文翻译
 
 *   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
 
@@ -248,6 +250,8 @@
 *   [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
 
 *   [maurodesouza/profile-readme-generator](https://github.com/maurodesouza/profile-readme-generator) - 🎨 Enhance your GitHub profile with this amazing tool, which allows you to create a personalized README quickly and easily. This profile README generator is the best you'll find 🚀
+
+*   [sb2nov/mac-setup](https://github.com/sb2nov/mac-setup) - Installing Development environment on macOS
 
 *   [remvze/moodist](https://github.com/remvze/moodist) - 🌲 Ambient sounds for focus and calm.
 
@@ -820,10 +824,6 @@
 *   [asciidoctor/asciidoctor](https://github.com/asciidoctor/asciidoctor) - :gem: A fast, open source text processor and publishing toolchain, written in Ruby, for converting AsciiDoc content to HTML 5, DocBook 5, and other formats.
 
 *   [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
-
-## Kotlin
-
-*   [JetBrains/ideavim](https://github.com/JetBrains/ideavim) - IdeaVim – A Vim engine for JetBrains IDEs
 
 ## Vim Script
 
