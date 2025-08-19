@@ -2,13 +2,14 @@
 
 ## Table of Contents
 
+*   [HTML](#html)
+*   [miscellaneous](#miscellaneous)
 *   [TypeScript](#typescript)
 *   [Python](#python)
 *   [JavaScript](#javascript)
 *   [C#](#c)
 *   [Vala](#vala)
 *   [Dart](#dart)
-*   [miscellaneous](#miscellaneous)
 *   [Java](#java)
 *   [Shell](#shell)
 *   [Kotlin](#kotlin)
@@ -25,7 +26,6 @@
 *   [PHP](#php)
 *   [Markdown](#markdown)
 *   [Elixir](#elixir)
-*   [HTML](#html)
 *   [C](#c-2)
 *   [Makefile](#makefile)
 *   [Nix](#nix)
@@ -34,7 +34,73 @@
 *   [Fluent](#fluent)
 *   [CoffeeScript](#coffeescript)
 
+## HTML
+
+*   [weiruchenai1/api-key-tester](https://github.com/weiruchenai1/api-key-tester) - 🔑 API Key 测活工具 - 批量检测 Gemini、Claude、GPT API 密钥有效性
+
+*   [ZGQ-inc/overthefirewall](https://github.com/ZGQ-inc/overthefirewall) - :electron:覆盖全平台:electron:完全免费:electron:节点订阅:electron:机场推荐:electron:破解VPN软件分享:electron:
+
+*   [yoyodadada/haoruanfenxiang](https://github.com/yoyodadada/haoruanfenxiang) - 好软分享
+
+*   [liu673cn/bug](https://github.com/liu673cn/bug) - TVbox开源版（空壳-自行配置）
+
+*   [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
+
+## miscellaneous
+
+*   [MoonTechLab/LunaTV](https://github.com/MoonTechLab/LunaTV) -
+
+*   [itMrBoy/resumePolice](https://github.com/itMrBoy/resumePolice) - 简历警察 🕵️‍♂️ 疯狂逮捕
+
+*   [AZeC4/TelegramGroup](https://github.com/AZeC4/TelegramGroup) - 2025最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【dianbaodaohang.com】
+
+*   [RawChat/RawChat](https://github.com/RawChat/RawChat) -
+
+*   [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
+
+*   [J3n5en/bye](https://github.com/J3n5en/bye) -
+
+*   [ACL4SSR/ACL4SSR](https://github.com/ACL4SSR/ACL4SSR) - SSR 去广告ACL规则/SS完整GFWList规则/Clash规则碎片，Telegram频道订阅地址
+
+*   [yzfly/Awesome-MCP-ZH](https://github.com/yzfly/Awesome-MCP-ZH) - MCP 资源精选， MCP指南，Claude MCP，MCP Servers, MCP Clients
+
+*   [holyshell/AppsForMac](https://github.com/holyshell/AppsForMac) - Some awesome software for macOS
+
+*   [golangboy/wxocr](https://github.com/golangboy/wxocr) - nothing
+
+*   [bdvajstudio/javdb](https://github.com/bdvajstudio/javdb) - javdb official app
+
+*   [ripperhe/Bob](https://github.com/ripperhe/Bob) - Bob 是一款 macOS 平台的翻译和 OCR 软件。
+
+*   [obgnail/chinese-internet-is-dead](https://github.com/obgnail/chinese-internet-is-dead) - the website blocklist I am maintaining
+
+*   [free-nodes/clashfree](https://github.com/free-nodes/clashfree) - clash节点、免费clash节点、免费节点、免费梯子、clash科学上网、clash翻墙、clash订阅链接、clash for Windows、clash教程、免费公益节点、最新clash免费节点订阅地址、clash免费节点每日更新
+
+*   [deepseek-ai/DeepSeek-Coder-V2](https://github.com/deepseek-ai/DeepSeek-Coder-V2) - DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence
+
+*   [anaer/Meow](https://github.com/anaer/Meow) - 自用tvbox配置
+
+*   [xiaye13579/BBLL](https://github.com/xiaye13579/BBLL) - 一个第三方哔哩哔哩客户端，A third-party bilibili client。
+
+*   [davidkane0526/Dnest](https://github.com/davidkane0526/Dnest) - Windoes系统上的文件暂存工具，类似MacOs上的Yoink
+
+*   [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg) -
+
+*   [soulteary/docker-flare](https://github.com/soulteary/docker-flare) - Flare ✨ Lightweight, high performance and fast self-hosted navigation pages, resource utilization rate is <1% CPU, MEM <30 M, Docker Image < 10M
+
+*   [dnsjia/luban](https://github.com/dnsjia/luban) - Kubernetes集群管理平台，CMDB，K8S容器管理，运维平台，自动化运维发布平台，CICD平台，多集群管理
+
+*   [o0HalfLife0o/TVBoxOSC](https://github.com/o0HalfLife0o/TVBoxOSC) -
+
+*   [hardhackerlabs/themes](https://github.com/hardhackerlabs/themes) - 🧑🏾‍🚀 One Theme to Rule Them All 🌈
+
+*   [xx025/carrot](https://github.com/xx025/carrot) - Free ChatGPT Site List 这儿为你准备了众多免费好用的ChatGPT镜像站点
+
+*   [NAStool/nas-tools](https://github.com/NAStool/nas-tools) - NAS媒体库管理工具
+
 ## TypeScript
+
+*   [fxaxg/one-api-hub](https://github.com/fxaxg/one-api-hub) - One API Hub - 中转站管理器，一个开源的浏览器插件，聚合管理AI中转站账号的余额、模型和密钥，告别繁琐登录。
 
 *   [chenx-dust/DeckyClash](https://github.com/chenx-dust/DeckyClash) - Light-weight Clash/Mihomo proxy client for Steam OS
 
@@ -200,8 +266,6 @@
 
 *   [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
 
-*   [hhyo/Archery](https://github.com/hhyo/Archery) - SQL 审核查询平台
-
 ## JavaScript
 
 *   [tonngw/awesome-github-repos](https://github.com/tonngw/awesome-github-repos) - 🚀 A curated collection of awesome GitHub repositories, organized by language and topic from my starred projects. Modern, elegant platform for showcasing your starred GitHub repositories.
@@ -314,56 +378,6 @@
 
 *   [jonjomckay/fritter](https://github.com/jonjomckay/fritter) - A privacy-friendly Twitter frontend for mobile devices
 
-## miscellaneous
-
-*   [itMrBoy/resumePolice](https://github.com/itMrBoy/resumePolice) - 简历警察 🕵️‍♂️ 疯狂逮捕
-
-*   [AZeC4/TelegramGroup](https://github.com/AZeC4/TelegramGroup) - 2025最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【dianbaodaohang.com】
-
-*   [RawChat/RawChat](https://github.com/RawChat/RawChat) -
-
-*   [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
-
-*   [J3n5en/bye](https://github.com/J3n5en/bye) -
-
-*   [ACL4SSR/ACL4SSR](https://github.com/ACL4SSR/ACL4SSR) - SSR 去广告ACL规则/SS完整GFWList规则/Clash规则碎片，Telegram频道订阅地址
-
-*   [yzfly/Awesome-MCP-ZH](https://github.com/yzfly/Awesome-MCP-ZH) - MCP 资源精选， MCP指南，Claude MCP，MCP Servers, MCP Clients
-
-*   [holyshell/AppsForMac](https://github.com/holyshell/AppsForMac) - Some awesome software for macOS
-
-*   [golangboy/wxocr](https://github.com/golangboy/wxocr) - nothing
-
-*   [bdvajstudio/javdb](https://github.com/bdvajstudio/javdb) - javdb official app
-
-*   [ripperhe/Bob](https://github.com/ripperhe/Bob) - Bob 是一款 macOS 平台的翻译和 OCR 软件。
-
-*   [obgnail/chinese-internet-is-dead](https://github.com/obgnail/chinese-internet-is-dead) - the website blocklist I am maintaining
-
-*   [free-nodes/clashfree](https://github.com/free-nodes/clashfree) - clash节点、免费clash节点、免费节点、免费梯子、clash科学上网、clash翻墙、clash订阅链接、clash for Windows、clash教程、免费公益节点、最新clash免费节点订阅地址、clash免费节点每日更新
-
-*   [deepseek-ai/DeepSeek-Coder-V2](https://github.com/deepseek-ai/DeepSeek-Coder-V2) - DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence
-
-*   [anaer/Meow](https://github.com/anaer/Meow) - 自用tvbox配置
-
-*   [xiaye13579/BBLL](https://github.com/xiaye13579/BBLL) - 一个第三方哔哩哔哩客户端，A third-party bilibili client。
-
-*   [davidkane0526/Dnest](https://github.com/davidkane0526/Dnest) - Windoes系统上的文件暂存工具，类似MacOs上的Yoink
-
-*   [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg) -
-
-*   [soulteary/docker-flare](https://github.com/soulteary/docker-flare) - Flare ✨ Lightweight, high performance and fast self-hosted navigation pages, resource utilization rate is <1% CPU, MEM <30 M, Docker Image < 10M
-
-*   [dnsjia/luban](https://github.com/dnsjia/luban) - Kubernetes集群管理平台，CMDB，K8S容器管理，运维平台，自动化运维发布平台，CICD平台，多集群管理
-
-*   [o0HalfLife0o/TVBoxOSC](https://github.com/o0HalfLife0o/TVBoxOSC) -
-
-*   [hardhackerlabs/themes](https://github.com/hardhackerlabs/themes) - 🧑🏾‍🚀 One Theme to Rule Them All 🌈
-
-*   [xx025/carrot](https://github.com/xx025/carrot) - Free ChatGPT Site List 这儿为你准备了众多免费好用的ChatGPT镜像站点
-
-*   [NAStool/nas-tools](https://github.com/NAStool/nas-tools) - NAS媒体库管理工具
-
 ## Java
 
 *   [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
@@ -395,10 +409,6 @@
 *   [flyhero/easy-log](https://github.com/flyhero/easy-log) - easy-log是基于SpringBoot的一款通用操作日志组件，它指在帮助我们通过注解优雅地聚合项目中的操作日志，对业务代码无侵入。
 
 *   [dromara/fast-request](https://github.com/dromara/fast-request) - IntelliJ IDEA plugin Fast Request
-
-*   [jeecgboot/jimureport](https://github.com/jeecgboot/jimureport) - 「数据可视化：报表、大屏、数据看板」积木报表是一款类Excel操作风格，在线拖拽设计的报表工具和和数据可视化产品。功能涵盖: 报表设计、大屏设计、打印设计、图形报表、仪表盘门户设计等，完全免费！秉承“简单、易用、专业”的产品理念，极大的降低报表开发难度、缩短开发周期、解决各类报表难题。
-
-*   [xianrendzw/EasyReport](https://github.com/xianrendzw/EasyReport) - A simple and easy to use Web Report System for java.EasyReport是一个简单易用的Web报表工具(支持Hadoop,HBase及各种关系型数据库),它的主要功能是把SQL语句查询出的行列结构转换成HTML表格(Table)，并支持表格的跨行(RowSpan)与跨列(ColSpan)。同时它还支持报表Excel导出、图表显示及固定表头与左边列的功能。
 
 ## Shell
 
@@ -649,16 +659,6 @@
 ## Elixir
 
 *   [teslamate-org/teslamate](https://github.com/teslamate-org/teslamate) - A self-hosted data logger for your Tesla  🚘 \[main maintainer=@JakobLichterfeld]
-
-## HTML
-
-*   [ZGQ-inc/overthefirewall](https://github.com/ZGQ-inc/overthefirewall) - :electron:覆盖全平台:electron:完全免费:electron:节点订阅:electron:机场推荐:electron:破解VPN软件分享:electron:
-
-*   [yoyodadada/haoruanfenxiang](https://github.com/yoyodadada/haoruanfenxiang) - 好软分享
-
-*   [liu673cn/bug](https://github.com/liu673cn/bug) - TVbox开源版（空壳-自行配置）
-
-*   [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 
 ## C
 
