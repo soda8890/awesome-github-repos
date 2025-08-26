@@ -348,7 +348,7 @@
 
 *   [PetrVys/MotionPhoto2](https://github.com/PetrVys/MotionPhoto2) - Mux HEIC and JPG Live Photos into Google/Samsung Motion Photos
 
-*   [xXJSONDeruloXx/decky-lossless-scaling-vk](https://github.com/xXJSONDeruloXx/decky-lossless-scaling-vk) - Decky plugin to streamline installation and usage of lsfg-vk; the Lossless Scaling compatibility layer for linux
+*   [xXJSONDeruloXx/decky-lsfg-vk](https://github.com/xXJSONDeruloXx/decky-lsfg-vk) - Decky plugin to streamline installation and usage of lsfg-vk; the Lossless Scaling compatibility layer for linux
 
 *   [m-bain/whisperX](https://github.com/m-bain/whisperX) - WhisperX:  Automatic Speech Recognition with Word-level Timestamps (& Diarization)
 
