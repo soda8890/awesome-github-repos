@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+*   [Rust](#rust)
 *   [miscellaneous](#miscellaneous)
 *   [HTML](#html)
 *   [Go](#go)
@@ -21,7 +22,6 @@
 *   [Svelte](#svelte)
 *   [Swift](#swift)
 *   [Objective-C](#objective-c)
-*   [Rust](#rust)
 *   [Dockerfile](#dockerfile)
 *   [PHP](#php)
 *   [Markdown](#markdown)
@@ -33,6 +33,28 @@
 *   [PowerShell](#powershell)
 *   [Fluent](#fluent)
 *   [CoffeeScript](#coffeescript)
+
+## Rust
+
+*   [chenqimiao/quarkdrive-webdav](https://github.com/chenqimiao/quarkdrive-webdav) - 夸克网盘 WebDAV 服务
+
+*   [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
+
+*   [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+
+*   [nacos-group/r-nacos](https://github.com/nacos-group/r-nacos) - Nacos server re-implemented in Rust.
+
+*   [liudonghua123/hoppscotch-app](https://github.com/liudonghua123/hoppscotch-app) - This is a simple desktop version of hoppscotch (👽 Open source API development ecosystem) which build with Tauri. See also https://hoppscotch.io
+
+*   [libnyanpasu/clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) - Clash Nyanpasu～(∠・ω< )⌒☆​
+
+*   [YukiCoco/ToMoon](https://github.com/YukiCoco/ToMoon) - 基于 SteamOS 定制的网络工具，自动配置 TUN 模式加速游戏，网络代理。
+
+*   [svenstaro/miniserve](https://github.com/svenstaro/miniserve) - 🌟 For when you really just want to serve some files over HTTP right now!
+
+*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command. 🤱🏻 一键打包网页生成轻量桌面应用。
+
+*   [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 
 ## miscellaneous
 
@@ -203,8 +225,6 @@
 *   [eysp/onlyoffice-ce-docker-license](https://github.com/eysp/onlyoffice-ce-docker-license) - onlyoffice 破解版，支持x86和arm64架构，arm架构切换到arm分支即可
 
 *   [liufagui/onlyoffice](https://github.com/liufagui/onlyoffice) - 增加中文字体，去除不能访问的插件等
-
-*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
 
 *   [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 
@@ -472,8 +492,6 @@
 
 *   [AutohomeCorp/frostmourne](https://github.com/AutohomeCorp/frostmourne) - Frostmourne（霜之哀伤监控平台）是基于Elasticsearch, Prometheus, SkyWalking, InfluxDB，Mysql/TiDB，ClickHouse, SqlServer, IoTDB数据的分布式监控报警系统. Monitor & alert & alarm for Elasticsearch，Prometheus data。主要使用springboot2 + vue-element-admin
 
-*   [flyhero/easy-log](https://github.com/flyhero/easy-log) - easy-log是基于SpringBoot的一款通用操作日志组件，它指在帮助我们通过注解优雅地聚合项目中的操作日志，对业务代码无侵入。
-
 ## Shell
 
 *   [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
@@ -613,24 +631,6 @@
 ## Objective-C
 
 *   [noah-nuebling/mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix) - Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad!
-
-## Rust
-
-*   [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
-
-*   [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-
-*   [nacos-group/r-nacos](https://github.com/nacos-group/r-nacos) - Nacos server re-implemented in Rust.
-
-*   [liudonghua123/hoppscotch-app](https://github.com/liudonghua123/hoppscotch-app) - This is a simple desktop version of hoppscotch (👽 Open source API development ecosystem) which build with Tauri. See also https://hoppscotch.io
-
-*   [libnyanpasu/clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) - Clash Nyanpasu～(∠・ω< )⌒☆​
-
-*   [YukiCoco/ToMoon](https://github.com/YukiCoco/ToMoon) - 基于 SteamOS 定制的网络工具，自动配置 TUN 模式加速游戏，网络代理。
-
-*   [svenstaro/miniserve](https://github.com/svenstaro/miniserve) - 🌟 For when you really just want to serve some files over HTTP right now!
-
-*   [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 
 ## Dockerfile
 
