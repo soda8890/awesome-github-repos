@@ -2,8 +2,8 @@
 
 ## Table of Contents
 
-*   [Rust](#rust)
 *   [miscellaneous](#miscellaneous)
+*   [Rust](#rust)
 *   [HTML](#html)
 *   [Go](#go)
 *   [JavaScript](#javascript)
@@ -34,29 +34,9 @@
 *   [Fluent](#fluent)
 *   [CoffeeScript](#coffeescript)
 
-## Rust
-
-*   [chenqimiao/quarkdrive-webdav](https://github.com/chenqimiao/quarkdrive-webdav) - 夸克网盘 WebDAV 服务
-
-*   [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
-
-*   [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-
-*   [nacos-group/r-nacos](https://github.com/nacos-group/r-nacos) - Nacos server re-implemented in Rust.
-
-*   [liudonghua123/hoppscotch-app](https://github.com/liudonghua123/hoppscotch-app) - This is a simple desktop version of hoppscotch (👽 Open source API development ecosystem) which build with Tauri. See also https://hoppscotch.io
-
-*   [libnyanpasu/clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) - Clash Nyanpasu～(∠・ω< )⌒☆​
-
-*   [YukiCoco/ToMoon](https://github.com/YukiCoco/ToMoon) - 基于 SteamOS 定制的网络工具，自动配置 TUN 模式加速游戏，网络代理。
-
-*   [svenstaro/miniserve](https://github.com/svenstaro/miniserve) - 🌟 For when you really just want to serve some files over HTTP right now!
-
-*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command. 🤱🏻 一键打包网页生成轻量桌面应用。
-
-*   [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
-
 ## miscellaneous
+
+*   [PicoTrex/Awesome-Nano-Banana-images](https://github.com/PicoTrex/Awesome-Nano-Banana-images) - A curated collection of fun and creative examples generated with Nano Banana🍌, Gemini-2.5-flash-image based model. This repository showcases diverse AI-generated visuals and prompts, highlighting the playful possibilities of Nano Banana.
 
 *   [NeoFreeBird/app](https://github.com/NeoFreeBird/app) - A modified Twitter app, with branding reverts, BHTwitter and other QoL modifications.
 
@@ -107,6 +87,28 @@
 *   [xx025/carrot](https://github.com/xx025/carrot) - Free ChatGPT Site List 这儿为你准备了众多免费好用的ChatGPT镜像站点
 
 *   [NAStool/nas-tools](https://github.com/NAStool/nas-tools) - NAS媒体库管理工具
+
+## Rust
+
+*   [chenqimiao/quarkdrive-webdav](https://github.com/chenqimiao/quarkdrive-webdav) - 夸克网盘 WebDAV 服务
+
+*   [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
+
+*   [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+
+*   [nacos-group/r-nacos](https://github.com/nacos-group/r-nacos) - Nacos server re-implemented in Rust.
+
+*   [liudonghua123/hoppscotch-app](https://github.com/liudonghua123/hoppscotch-app) - This is a simple desktop version of hoppscotch (👽 Open source API development ecosystem) which build with Tauri. See also https://hoppscotch.io
+
+*   [libnyanpasu/clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) - Clash Nyanpasu～(∠・ω< )⌒☆​
+
+*   [YukiCoco/ToMoon](https://github.com/YukiCoco/ToMoon) - 基于 SteamOS 定制的网络工具，自动配置 TUN 模式加速游戏，网络代理。
+
+*   [svenstaro/miniserve](https://github.com/svenstaro/miniserve) - 🌟 For when you really just want to serve some files over HTTP right now!
+
+*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command. 🤱🏻 一键打包网页生成轻量桌面应用。
+
+*   [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 
 ## HTML
 
@@ -667,8 +669,6 @@
 *   [streetpea/chiaki-ng](https://github.com/streetpea/chiaki-ng) - Next-Generation of Chiaki (the open-source remote play client for PlayStation)
 
 *   [lizongying/my-tv](https://github.com/lizongying/my-tv) - 我的电视 电视直播软件，安装即可使用
-
-*   [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to enhance the working environment on Windows
 
 ## Makefile
 
