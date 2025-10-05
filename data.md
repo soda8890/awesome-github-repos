@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+*   [Shell](#shell)
 *   [Objective-C](#objective-c)
 *   [Swift](#swift)
 *   [Kotlin](#kotlin)
@@ -16,7 +17,6 @@
 *   [Vala](#vala)
 *   [Dart](#dart)
 *   [Java](#java)
-*   [Shell](#shell)
 *   [Batchfile](#batchfile)
 *   [Vue](#vue)
 *   [CSS](#css)
@@ -33,6 +33,30 @@
 *   [PowerShell](#powershell)
 *   [Fluent](#fluent)
 *   [CoffeeScript](#coffeescript)
+
+## Shell
+
+*   [tw93/Mole](https://github.com/tw93/Mole) - 🦡  Dig deep like a mole to clean your Mac. 🦡 像鼹鼠一样深入挖掘来清理您的 Mac
+
+*   [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+
+*   [yiGmMk/wxocr](https://github.com/yiGmMk/wxocr) - This project wraps the WeChat OCR functionality from the excellent wechat-ocr project into a simple REST API service that can be easily deployed using Docker. It allows you to perform optical character recognition on images by leveraging WeChat's powerful OCR capabilities.
+
+*   [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
+
+*   [CatOS-Home/CatOS](https://github.com/CatOS-Home/CatOS) - CatOS is an open-source,Arch-based,out-of-the-box Linux distribution designed to provide an excellent operating system user experience.
+
+*   [dragoonDorise/EmuDeck](https://github.com/dragoonDorise/EmuDeck) - Emulator configurator for Steam Deck
+
+*   [sileshn/ArchWSL2](https://github.com/sileshn/ArchWSL2) - Archlinux for WSL2 using wsldl
+
+*   [vicalloy/outline-docker-compose](https://github.com/vicalloy/outline-docker-compose) - Install a self-hosted Outline wiki instance in a couple of minutes
+
+*   [hoverbike1/TOTK-Mods-collection](https://github.com/hoverbike1/TOTK-Mods-collection) - Mod repo for Tears of The Kingdom (TOTK) for Switch and Switch Emulation
+
+*   [archlinuxcn/repo](https://github.com/archlinuxcn/repo) - Arch Linux CN Repository
+
+*   [juewuy/ShellCrash](https://github.com/juewuy/ShellCrash) - Run sing-box/mihomo as client in shell
 
 ## Objective-C
 
@@ -535,30 +559,6 @@
 *   [YiJiuSmile/kkFileViewOfficeEdit](https://github.com/YiJiuSmile/kkFileViewOfficeEdit) - 文件在线预览及OFFICE(word,excel,ppt)的在线编辑
 
 *   [alibaba/druid](https://github.com/alibaba/druid) - 阿里云计算平台DataWorks(https://help.aliyun.com/document\_detail/137663.html) 团队出品，为监控而生的数据库连接池
-
-## Shell
-
-*   [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
-
-*   [yiGmMk/wxocr](https://github.com/yiGmMk/wxocr) - This project wraps the WeChat OCR functionality from the excellent wechat-ocr project into a simple REST API service that can be easily deployed using Docker. It allows you to perform optical character recognition on images by leveraging WeChat's powerful OCR capabilities.
-
-*   [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
-
-*   [CatOS-Home/CatOS](https://github.com/CatOS-Home/CatOS) - CatOS is an open-source,Arch-based,out-of-the-box Linux distribution designed to provide an excellent operating system user experience.
-
-*   [dragoonDorise/EmuDeck](https://github.com/dragoonDorise/EmuDeck) - Emulator configurator for Steam Deck
-
-*   [sileshn/ArchWSL2](https://github.com/sileshn/ArchWSL2) - Archlinux for WSL2 using wsldl
-
-*   [vicalloy/outline-docker-compose](https://github.com/vicalloy/outline-docker-compose) - Install a self-hosted Outline wiki instance in a couple of minutes
-
-*   [hoverbike1/TOTK-Mods-collection](https://github.com/hoverbike1/TOTK-Mods-collection) - Mod repo for Tears of The Kingdom (TOTK) for Switch and Switch Emulation
-
-*   [archlinuxcn/repo](https://github.com/archlinuxcn/repo) - Arch Linux CN Repository
-
-*   [juewuy/ShellCrash](https://github.com/juewuy/ShellCrash) - Run sing-box/mihomo as client in shell
-
-*   [lework/kainstall](https://github.com/lework/kainstall) - Use shell scripts to install kubernetes(k8s) high availability clusters and addon components based on kubeadmin with one click.使用shell脚本基于kubeadmin一键安装kubernetes 高可用集群和addon组件。
 
 ## Batchfile
 
