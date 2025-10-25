@@ -164,7 +164,7 @@
 
 *   [dullage/flatnotes](https://github.com/dullage/flatnotes) - A self-hosted, database-less note taking web app that utilises a flat folder of markdown files for storage.
 
-*   [pangxiaobin/image-matting](https://github.com/pangxiaobin/image-matting) -
+*   [pangxiaobin/image-matting](https://github.com/pangxiaobin/image-matting) - AI抠图、格式转换、图片压缩、AI证件照
 
 *   [KyleBing/diary](https://github.com/KyleBing/diary) - 标题日记，web 日记应用，纯文本，PC+移动端
 
