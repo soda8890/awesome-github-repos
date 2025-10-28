@@ -11,8 +11,8 @@
 *   [Kotlin](#kotlin)
 *   [miscellaneous](#miscellaneous)
 *   [Rust](#rust)
-*   [HTML](#html)
 *   [JavaScript](#javascript)
+*   [HTML](#html)
 *   [Python](#python)
 *   [C#](#c)
 *   [Vala](#vala)
@@ -214,7 +214,7 @@
 
 *   [cloudreve/cloudreve](https://github.com/cloudreve/cloudreve) - 🌩 Self-hosted file management and sharing system, supports multiple storage providers
 
-*   [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking services. No tracking, no ads, no subscription fees — just a clean, fast way to capture your ideas.
+*   [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
 
 *   [LinuxSuRen/api-testing](https://github.com/LinuxSuRen/api-testing) - Open source API testing tool. 开源接口调试、测试工具。Mock Server
 
@@ -316,8 +316,6 @@
 
 *   [PicoTrex/Awesome-Nano-Banana-images](https://github.com/PicoTrex/Awesome-Nano-Banana-images) - A curated collection of fun and creative examples generated with Nano Banana🍌, Gemini-2.5-flash-image based model. We also release Nano-consistent-150K openly to support the community's development of image generation and unified models(click to website to see our blog)
 
-*   [NeoFreeBird/app](https://github.com/NeoFreeBird/app) - A modified Twitter app, with branding reverts, BHTwitter and other QoL modifications.
-
 *   [itMrBoy/resumePolice](https://github.com/itMrBoy/resumePolice) - 简历警察 🕵️‍♂️ 疯狂逮捕
 
 *   [AZeC4/TelegramGroup](https://github.com/AZeC4/TelegramGroup) - 2025最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【dianbaodaohang.com】
@@ -390,19 +388,9 @@
 
 *   [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 
-## HTML
-
-*   [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-
-*   [ZGQ-inc/overthefirewall](https://github.com/ZGQ-inc/overthefirewall) - :electron:覆盖全平台:electron:完全免费:electron:节点订阅:electron:机场推荐:electron:破解VPN软件分享:electron:
-
-*   [yoyodadada/haoruanfenxiang](https://github.com/yoyodadada/haoruanfenxiang) - 好软分享
-
-*   [liu673cn/bug](https://github.com/liu673cn/bug) - TVbox开源版（空壳-自行配置）
-
-*   [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
-
 ## JavaScript
+
+*   [NeoFreeBird/app](https://github.com/NeoFreeBird/app) - A modified Twitter app, with branding reverts, BHTwitter and other QoL modifications.
 
 *   [weiruchenai1/api-key-tester](https://github.com/weiruchenai1/api-key-tester) - API Key 测活工具 - 用于批量检测 OpenAI、Claude、Gemini 等 API 密钥有效性 | Modern API Key Tester - Used for batch testing the validity of API keys such as OpenAI, Claude, Gemini
 
@@ -457,6 +445,18 @@
 *   [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 
 *   [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux, Android, iOS and Web
+
+## HTML
+
+*   [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+
+*   [ZGQ-inc/overthefirewall](https://github.com/ZGQ-inc/overthefirewall) - :electron:覆盖全平台:electron:完全免费:electron:节点订阅:electron:机场推荐:electron:破解VPN软件分享:electron:
+
+*   [yoyodadada/haoruanfenxiang](https://github.com/yoyodadada/haoruanfenxiang) - 好软分享
+
+*   [liu673cn/bug](https://github.com/liu673cn/bug) - TVbox开源版（空壳-自行配置）
+
+*   [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 
 ## Python
 
