@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+*   [C](#c)
 *   [Vue](#vue)
 *   [TypeScript](#typescript)
 *   [Go](#go)
@@ -14,25 +15,34 @@
 *   [JavaScript](#javascript)
 *   [HTML](#html)
 *   [Python](#python)
-*   [C#](#c)
+*   [C#](#c-1)
 *   [Vala](#vala)
 *   [Dart](#dart)
 *   [Java](#java)
 *   [Batchfile](#batchfile)
 *   [CSS](#css)
-*   [C++](#c-1)
+*   [C++](#c-2)
 *   [Svelte](#svelte)
 *   [Dockerfile](#dockerfile)
 *   [PHP](#php)
 *   [Markdown](#markdown)
 *   [Elixir](#elixir)
-*   [C](#c-2)
 *   [Makefile](#makefile)
 *   [Nix](#nix)
 *   [Clojure](#clojure)
 *   [PowerShell](#powershell)
 *   [Fluent](#fluent)
 *   [CoffeeScript](#coffeescript)
+
+## C
+
+*   [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in \*nix systems or through your browser.
+
+*   [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) - chsrc 全平台通用换源工具与框架. Change Source everywhere for every software
+
+*   [streetpea/chiaki-ng](https://github.com/streetpea/chiaki-ng) - Next-Generation of Chiaki (the open-source remote play client for PlayStation)
+
+*   [lizongying/my-tv](https://github.com/lizongying/my-tv) - 我的电视 电视直播软件，安装即可使用
 
 ## Vue
 
@@ -386,8 +396,6 @@
 
 *   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command. 一键打包网页生成轻量桌面应用
 
-*   [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
-
 ## JavaScript
 
 *   [NeoFreeBird/app](https://github.com/NeoFreeBird/app) - A modified Twitter app, with branding reverts, BHTwitter and other QoL modifications.
@@ -661,14 +669,6 @@
 ## Elixir
 
 *   [teslamate-org/teslamate](https://github.com/teslamate-org/teslamate) - A self-hosted data logger for your Tesla  🚘 \[main maintainer=@JakobLichterfeld]
-
-## C
-
-*   [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) - chsrc 全平台通用换源工具与框架. Change Source everywhere for every software
-
-*   [streetpea/chiaki-ng](https://github.com/streetpea/chiaki-ng) - Next-Generation of Chiaki (the open-source remote play client for PlayStation)
-
-*   [lizongying/my-tv](https://github.com/lizongying/my-tv) - 我的电视 电视直播软件，安装即可使用
 
 ## Makefile
 
