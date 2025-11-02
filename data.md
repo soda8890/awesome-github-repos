@@ -28,6 +28,7 @@
 *   [Markdown](#markdown)
 *   [Elixir](#elixir)
 *   [Makefile](#makefile)
+*   [GLSL](#glsl)
 *   [Nix](#nix)
 *   [Clojure](#clojure)
 *   [PowerShell](#powershell)
@@ -526,8 +527,6 @@
 
 *   [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) - Everything integration for the Windows taskbar.
 
-*   [Richasy/Bili.Copilot](https://github.com/Richasy/Bili.Copilot) - B站第三方 Windows 桌面客户端，使用 Windows App SDK 构建的原生应用
-
 *   [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 
 *   [aiguoli/SimpleList](https://github.com/aiguoli/SimpleList) - Manage your OneDrive files on WinUI3 powered app
@@ -675,6 +674,10 @@
 *   [zhimin-dev/iptv-checker](https://github.com/zhimin-dev/iptv-checker) - IPTV checker tool for Docker && Desktop && CMD, check your playlist is available
 
 *   [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install.
+
+## GLSL
+
+*   [Richasy/Bili.Copilot](https://github.com/Richasy/Bili.Copilot) - B站第三方 Windows 桌面客户端，使用 Windows App SDK 构建的原生应用
 
 ## Nix
 
