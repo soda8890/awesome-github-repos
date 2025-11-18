@@ -305,7 +305,7 @@
 
 *   [xihan123/SignHook](https://github.com/xihan123/SignHook) - 这是一个简单的签名校验通杀模块
 
-*   [rikkahub/rikkahub](https://github.com/rikkahub/rikkahub) - RikkaHub is a Android APP that supports for multiple LLM providers.
+*   [rikkahub/rikkahub](https://github.com/rikkahub/rikkahub) - RikkaHub is an Android APP that supports for multiple LLM providers.
 
 *   [NeoApplications/Neo-Store](https://github.com/NeoApplications/Neo-Store) - An F-Droid client with modern UI and an arsenal of extra features.
 
