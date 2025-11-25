@@ -247,7 +247,7 @@
 
 *   [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 
-*   [chaos-zhu/easynode](https://github.com/chaos-zhu/easynode) - 一个多功能Linux服务器WEB终端面板(webSSH\&webSFTP). 更新通知TG：
+*   [chaos-zhu/easynode](https://github.com/chaos-zhu/easynode) - 一个多功能Linux\&win服务器WEB终端面板(webSSH\&webSFTP). 更新通知TG：
 
 ## Go
 
