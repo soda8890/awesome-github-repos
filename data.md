@@ -555,7 +555,7 @@
 
 *   [3003h/Eros-FE](https://github.com/3003h/Eros-FE) - An e-hentai/exhentai app make on flutter
 
-*   [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music client! Available for both desktop & mobile!
+*   [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 
 *   [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
 
