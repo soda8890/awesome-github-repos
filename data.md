@@ -2,12 +2,13 @@
 
 ## Table of Contents
 
+*   [C#](#c)
 *   [TypeScript](#typescript)
 *   [Go](#go)
 *   [Swift](#swift)
 *   [Python](#python)
 *   [miscellaneous](#miscellaneous)
-*   [C](#c)
+*   [C](#c-1)
 *   [Vue](#vue)
 *   [Shell](#shell)
 *   [Objective-C](#objective-c)
@@ -16,7 +17,6 @@
 *   [CSS](#css)
 *   [HTML](#html)
 *   [JavaScript](#javascript)
-*   [C#](#c-1)
 *   [Vala](#vala)
 *   [Dart](#dart)
 *   [Batchfile](#batchfile)
@@ -37,6 +37,28 @@
 *   [Less](#less)
 *   [Jinja](#jinja)
 *   [ASL](#asl)
+
+## C\#
+
+*   [sourcegit-scm/sourcegit](https://github.com/sourcegit-scm/sourcegit) - Windows/macOS/Linux GUI client for GIT users
+
+*   [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
+
+*   [git-ecosystem/git-credential-manager](https://github.com/git-ecosystem/git-credential-manager) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
+
+*   [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) - Everything integration for the Windows taskbar.
+
+*   [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
+
+*   [aiguoli/SimpleList](https://github.com/aiguoli/SimpleList) - Manage your OneDrive files on WinUI3 powered app
+
+*   [Sophia-Community/SophiApp](https://github.com/Sophia-Community/SophiApp) - :zap: The most powerful open source tweaker on GitHub for fine-tuning Windows 10 & Windows 11
+
+*   [jgosar/mine-city-2000](https://github.com/jgosar/mine-city-2000) - A program that converts SimCity 2000 cities into Minecraft worlds
+
+*   [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
+
+*   [phaselden/FlipIt](https://github.com/phaselden/FlipIt) - Flip Clock screensaver
 
 ## TypeScript
 
@@ -426,8 +448,6 @@
 
 *   [krislinzhao/StudyNotes](https://github.com/krislinzhao/StudyNotes) - 📚JAVA、Spring、SpringMVC、SpringBoot、Mybatis、Vue、MySQL、MongoDB、Radis、Docker、Nginx、......笔记
 
-*   [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
-
 ## C
 
 *   [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in \*nix systems or through your browser.
@@ -689,26 +709,6 @@
 *   [Hackl0us/SS-Rule-Snippet](https://github.com/Hackl0us/SS-Rule-Snippet) - 搜集、整理、维护 Surge / Quantumult (X) / Shadowrocket / Surfboard / clash (Premium) 实用规则。
 
 *   [coderwhy/LearnMiniProgram](https://github.com/coderwhy/LearnMiniProgram) - Learn Mini Program
-
-## C\#
-
-*   [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
-
-*   [git-ecosystem/git-credential-manager](https://github.com/git-ecosystem/git-credential-manager) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
-
-*   [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) - Everything integration for the Windows taskbar.
-
-*   [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
-
-*   [aiguoli/SimpleList](https://github.com/aiguoli/SimpleList) - Manage your OneDrive files on WinUI3 powered app
-
-*   [Sophia-Community/SophiApp](https://github.com/Sophia-Community/SophiApp) - :zap: The most powerful open source tweaker on GitHub for fine-tuning Windows 10 & Windows 11
-
-*   [jgosar/mine-city-2000](https://github.com/jgosar/mine-city-2000) - A program that converts SimCity 2000 cities into Minecraft worlds
-
-*   [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
-
-*   [phaselden/FlipIt](https://github.com/phaselden/FlipIt) - Flip Clock screensaver
 
 ## Vala
 
