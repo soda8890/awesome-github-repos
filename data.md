@@ -56,8 +56,6 @@
 
 *   [fxaxg/one-api-hub](https://github.com/fxaxg/one-api-hub) - One API Hub - 中转站管理器，一个开源的浏览器插件，聚合管理AI中转站账号的余额、模型和密钥，告别繁琐登录。
 
-*   [chenx-dust/DeckyClash](https://github.com/chenx-dust/DeckyClash) - Light-weight Clash/Mihomo proxy client for Steam OS
-
 *   [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 
 *   [orion-lib/OrionTV](https://github.com/orion-lib/OrionTV) - 一个基于 React Native TVOS 和 Expo 构建的播放器，旨在提供流畅的视频观看体验。
@@ -317,6 +315,8 @@
 ## Python
 
 *   [oraios/serena](https://github.com/oraios/serena) - A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & other integrations)
+
+*   [chenx-dust/DeckyClash](https://github.com/chenx-dust/DeckyClash) - Light-weight Clash/Mihomo proxy client for Steam OS
 
 *   [crimera/twitter-apk](https://github.com/crimera/twitter-apk) - Apk builds of piko patches
 
@@ -608,7 +608,7 @@
 
 *   [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 
-*   [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南/英语学习教程/英语学习
+*   [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南/英语学习教程/英语学习/学英语
 
 *   [ShoroukAziz/notion\_widgets](https://github.com/ShoroukAziz/notion_widgets) - A set of HTML widgets that could be embedded into  Notion.so  https://www.notion.so/ pages. For more see https://blog.shorouk.dev/notion-widgets-gallery/
 
