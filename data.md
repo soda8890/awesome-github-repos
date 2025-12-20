@@ -752,7 +752,7 @@
 
 ## C++
 
-*   [qiin2333/foundation](https://github.com/qiin2333/foundation) - Sunshine, a self-hosted game-stream host for Moonlight, now features an HDR-friendly fork that integrates virtual displays and control panels.
+*   [qiin2333/foundation-sunshine](https://github.com/qiin2333/foundation-sunshine) - Sunshine, a self-hosted game-stream host for Moonlight, now features an HDR-friendly fork that integrates virtual displays and control panels.
 
 *   [ClassicOldSong/Apollo](https://github.com/ClassicOldSong/Apollo) - Sunshine fork - The easiest way to stream with the native resolution of your client device
 
@@ -844,7 +844,7 @@
 
 ## PHP
 
-*   [ellite/Wallos](https://github.com/ellite/Wallos) - Wallos: Open-Source Personal Subscription Tracker
+*   [ellite/Wallos](https://github.com/ellite/Wallos) - Wallos: Open-source, self-hostable personal subscription tracker. Visualize your recurring expenses, manage your budget, and save money.
 
 *   [VMCoud/minimal-web-notepad](https://github.com/VMCoud/minimal-web-notepad) - Minimal PHP web notepad with password protection. All notes saved as text files.
 
