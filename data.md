@@ -40,7 +40,7 @@
 
 ## Kotlin
 
-*   [Luokavin/AutoGLM-For-Android](https://github.com/Luokavin/AutoGLM-For-Android) - 基于 Open-AutoGLM 的 Android 原生手机智能助手应用 | Native Android Phone AI Assistant Based on Open-AutoGLM
+*   [Luokavin/AutoGLM-For-Android](https://github.com/Luokavin/AutoGLM-For-Android) - 纯 Android 端 Open-AutoGLM 实现，无需电脑
 
 *   [wecode-ai/RunVSAgent](https://github.com/wecode-ai/RunVSAgent) - Run VSCode-based coding agents and extensions seamlessly within other IDE platforms - bridging the gap between VSCode ecosystem and other development environment.
 
