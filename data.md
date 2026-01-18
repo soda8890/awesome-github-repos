@@ -819,7 +819,7 @@
 
 *   [dromara/fast-request](https://github.com/dromara/fast-request) - IntelliJ IDEA plugin Fast Request
 
-*   [jeecgboot/jimureport](https://github.com/jeecgboot/jimureport) - An open-source Chart AI BI and REPORT tool alternative to Tableau and JasperReports, offering powerful reporting capabilities. 一款类似Excel的AI报表工具和大屏！完全在线傻瓜式AI设计，高效降低报表开发难度，解决各类报表难题。
+*   [jeecgboot/jimureport](https://github.com/jeecgboot/jimureport) - Open-source Chart2BI and REPORT tool alternative to Tableau and JasperReports, offering powerful reporting capabilities. 一款类似Excel的AI报表工具和大屏！完全在线傻瓜式AI设计，高效降低报表开发难度，解决各类报表难题。
 
 *   [xianrendzw/EasyReport](https://github.com/xianrendzw/EasyReport) - A simple and easy to use Web Report System for java.EasyReport是一个简单易用的Web报表工具(支持Hadoop,HBase及各种关系型数据库),它的主要功能是把SQL语句查询出的行列结构转换成HTML表格(Table)，并支持表格的跨行(RowSpan)与跨列(ColSpan)。同时它还支持报表Excel导出、图表显示及固定表头与左边列的功能。
 
