@@ -91,7 +91,7 @@
 
 *   [coder/coder](https://github.com/coder/coder) - Secure environments for developers and their agents
 
-*   [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel provides an intuitive web interface and MCP Server to manage websites, files, containers, databases, and LLMs on a Linux server.
+*   [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel offers an intuitive web interface for Linux server, making it easy to manage OpenClaw agents, LLMs, websites, databases, containers, files, and scheduled tasks.
 
 *   [wangbjun/go-micloud](https://github.com/wangbjun/go-micloud) - Go语言开发的小米云服务网盘命令行客户端
 
